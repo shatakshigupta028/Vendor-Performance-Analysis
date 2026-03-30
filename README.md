@@ -46,6 +46,10 @@ This project is an end-to-end Data Analytics case study that simulates a real-wo
   - Gross Profit
   - Inventory Turnover
   - Vendor Performance Rankings
+ 
+  Screenshot-
+  <img width="847" height="537" alt="image" src="https://github.com/user-attachments/assets/3e3a5e2a-2691-4b09-9bfa-84a9286e548e" />
+
 
 ---
 
